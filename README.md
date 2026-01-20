@@ -1,4 +1,5 @@
 🍎 Fruit Quality Detection Using ResNet50
+
 📌 Project Overview
 
 This project implements a Fruit and Vegetable Quality Detection System using Deep Learning (ResNet50).
@@ -11,20 +12,20 @@ A Flask web application is built to provide a simple UI where users can upload a
 ResNet50 is a 50-layer deep Residual Neural Network that uses skip (residual) connections to overcome vanishing gradient problems.
 
 Why ResNet50?
-
-Pre-trained on ImageNet
-
-Excellent for image classification
-
-Faster convergence using transfer learning
-
-High accuracy and strong feature extraction
+        
+        *Pre-trained on ImageNet
+        
+        *Excellent for image classification
+        
+        *Faster convergence using transfer learning
+        
+        *High accuracy and strong feature extraction
 
 In this project:
 
-ResNet50 is used as a base model
-
-Custom dense layers are added for classification
+        -ResNet50 is used as a base model
+        
+        -Custom dense layers are added for classification
 
 ⚙️ Model & Dataset Note
 
