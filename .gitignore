@@ -1,0 +1,18 @@
+# Virtual environment
+myenv/
+
+# Dataset & images
+dataset/
+training/
+*.jpg
+*.png
+
+# ML models
+*.h5
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
